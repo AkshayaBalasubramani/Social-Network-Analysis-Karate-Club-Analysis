@@ -22,4 +22,16 @@ lessons or meetings.
 ## Process
 The project makes use of NetwokX library for analysis and concluding about the clusters,centrality measures and insights of the social network.  
 The analysis gives the result of the split of the Karate club due to a few issues.John A ans Hi are the two prominant nodes whose behaviour and analysis must me studied.   
-Output screenshots are uploaded.
+Output screenshots are uploaded.   
+   
+## Centrality Analysis
+1.degree centrality   
+For finding very connected individuals, popular individuals, individuals who are likely to hold most information or individuals who can quickly connect with the wider network.  
+2.betweeness centrality    
+For finding the individuals who influence the flow around a system.   
+3.closeness centrality    
+For finding the individuals who are best placed to influence the entire network most quickly.   
+4.eigen value centrality   
+EigenCentrality is a good ‘all-round’ SNA score, handy for understanding human social networks, but also for understanding networks like malware propagation.    
+5.PageRank centrality   
+Because it takes into account direction and connection weight, PageRank can be helpful for understanding citations and authority.
