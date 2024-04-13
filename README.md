@@ -21,4 +21,5 @@ lessons or meetings.
 
 ## Process
 The project makes use of NetwokX library for analysis and concluding about the clusters,centrality measures and insights of the social network.  
-The analysis gives the result of the split of the Karate club due to a few issues.John A ans Hi are the two prominant nodes whose behaviour and analysis must me studied.
+The analysis gives the result of the split of the Karate club due to a few issues.John A ans Hi are the two prominant nodes whose behaviour and analysis must me studied.   
+Output screenshots are uploaded.
